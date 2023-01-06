@@ -1,5 +1,8 @@
 ## E aí, pessoal! Deixa eu me apresentar um pouco melhor 👇🏻
 
+- 👩🏻‍💻  Desenvolvedor;
+- 📚 Comecei nesse mundo quando quis construir um projeto de educação na internet, como não tinha tantas pessoas dispostas a entrar no projeto, precisei arregachar a mangas e aprender o que eu podia;
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecastroo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
