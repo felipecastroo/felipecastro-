@@ -3,6 +3,9 @@
 - 👩🏻‍💻  Desenvolvedor;
 - 📚 Comecei nesse mundo quando quis construir um projeto de educação na internet, como não tinha tantas pessoas dispostas a entrar no projeto, precisei arregachar a mangas e aprender o que eu podia;
 
+<div align="center">
+  <a href="https://github.com/felipecastroo">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecastroo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -19,6 +22,6 @@
   <a href = "mailto:castroofelipee19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipecastroti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/rafaballerini/felipecastroo/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/felipecastroo/felipecastroo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
